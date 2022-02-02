@@ -55,3 +55,5 @@ document.addEventListener('mousemove', function(e) {
         // ctx.clearRect(e.clientX, e.clientY, 100, 100);
     }
 });
+
+// Saucisse pasteque, anamnese obese
